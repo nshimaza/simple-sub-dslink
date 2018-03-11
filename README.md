@@ -1,2 +1,2 @@
 # simple-sub-dslink
-Subscribe an DSA node then print it
+Subscribe a DSA node then print it
